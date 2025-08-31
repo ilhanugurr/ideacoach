@@ -1,3 +1,0 @@
-{
-  "functions": { "api/ai-chat.js": { "runtime": "nodejs18.x" } }
-}
